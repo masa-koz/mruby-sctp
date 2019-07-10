@@ -1,0 +1,7 @@
+name: mruby-sctp
+description: SCTP class
+author: Masahiro Kozuka
+website: https://github.com/masa-koz/mruby-sctp
+protocol: git
+repository: https://github.com/masa-koz/mruby-sctp.git
+license: MIT
